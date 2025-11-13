@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "752747962112",
+    "firebase_url": "https://resunateproject-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "resunateproject",
+    "storage_bucket": "resunateproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752747962112:android:a4da72663696b037085de5",
+        "android_client_info": {
+          "package_name": "com.example.resunate_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpbVLE27z7B3FHVcZNf-RqrtQDdYkr9S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752747962112:android:63e15e4b7d5c30db085de5",
+        "android_client_info": {
+          "package_name": "com.example.resunate_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpbVLE27z7B3FHVcZNf-RqrtQDdYkr9S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
