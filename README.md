@@ -1,16 +1,22 @@
-# resunate_final_project
+<img src="resunate.png" alt="Logo" width="100%">
+Resunate is an interactive wellness mobile application designed to meet the growing demand for a single platform that integrates mindfulness, fitness, and nutrition. The goal of the app is to bridge the gap between mental well-being and physical fitness in one cohesive app, making wellness more accessible and less overwhelming.
 
-A new Flutter project.
+The app simplifies wellness by providing a comprehensive approach to help users stay consistent with their goals. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 🎯 Purpose and Target Audience
+The Resunate App is designed to offer a wellness solution that brings mindfulness, fitness, and nutrition together in a single platform. It caters to each user's individual needs, aiming to be accessible and inclusive for everyone.
 
-A few resources to get you started if this is your first Flutter project:
+Resunate supports people from all backgrounds who value both their mental and physical health. It adapts to specific user goals and provides a comprehensive approach to wellness, which includes:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Mindfulness exercises 
+- Fitness exercises
+- Meal plans and tips
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 💻 Technology Stack
+
+- **Development Framework:** Flutter 
+- **Programming Language:** Dart 
+- **Database:** Firebase
+
